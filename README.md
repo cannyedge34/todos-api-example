@@ -10,5 +10,12 @@ Checkout this repo, install dependencies, then start the rails server with the f
 > git clone https://github.com/cannyedge34/todos-api-example.git
 > cd todos-api-example
 > bundle install
-> rails s
 ```
+
+Run tests
+
+```
+bundle exec rspec
+```
+
+Api tests with https://httpie.org/
